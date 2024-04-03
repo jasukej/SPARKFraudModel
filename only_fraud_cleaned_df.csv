@@ -1,0 +1,266 @@
+Card Identifier,Transaction Date,Transaction Time,Risk Assessment,Payment Method,Transaction Value,Merchant Location,Card Present Status,Chip Usage,Cross-border Transaction (Yes/No),Acquiring Institution ID,Merchant Identifier,Merchant Category Code (MCC),Fraud Indicator (Yes/No),Year,Month,Day,Hour,Merchant Category
+card 867,2023-11-03,19:58:47.0,4227.0,Paypass - Contactless,25.42,FRA,CP,Yes,Yes,acquirer 52,merchant 126,763.0,Yes,2023,11,3,0,Agricultural Co-operatives
+card 1596,2023-02-10,12:05:17.0,1842.0,Magnetic Stripe,97.68,ITA,CP,No,Yes,acquirer 366,merchant 8,7011.0,Yes,2023,2,10,0,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)"
+card 606,2023-05-31,14:07:49.0,467.0,Magnetic Stripe,24.96,USA,CP,No,No,acquirer 218,merchant 1,5812.0,Yes,2023,5,31,0,Eating places and Restaurants
+card 2407,2023-08-13,21:09:09.0,1737.0,Magnetic Stripe,109.05,USA,CP,No,No,acquirer 55,merchant 1,5812.0,Yes,2023,8,13,0,Eating places and Restaurants
+card 2570,2023-08-09,14:46:24.0,2792.0,Chip,117.98,USA,CP,No,No,acquirer 45,merchant 816,5661.0,Yes,2023,8,9,0,Shoe Stores
+card 2642,2023-07-15,17:55:00.0,3282.0,Paypass - Contactless,18.28,USA,CP,Yes,No,acquirer 25,merchant 4,5814.0,Yes,2023,7,15,0,Fast Food Restaurants
+card 3025,2023-02-06,60:04:0.0,1462.0,Magnetic Stripe,160.0,USA,CP,No,No,acquirer 6,merchant 974,3715.0,Yes,2023,2,6,0,FARIFIELD INN
+card 894,2023-06-02,23:20:43.0,1352.0,PayPass - Wallet,13.56,USA,CP,Yes,No,acquirer 6,merchant 1,5812.0,Yes,2023,6,2,0,Eating places and Restaurants
+card 3242,2023-12-07,16:14:25.0,422.0,Paypass - Contactless,38.88,BRA,CP,Yes,Yes,acquirer 423,merchant 550,5651.0,Yes,2023,12,7,0,Family Clothing Stores
+card 3618,2023-09-11,19:38:29.0,1162.0,Paypass - Contactless,19.88,ESP,CP,Yes,Yes,acquirer 32,merchant 1,5812.0,Yes,2023,9,11,0,Eating places and Restaurants
+card 1596,2023-01-29,14:83:9.0,1397.0,Magnetic Stripe,90.49,ITA,CP,No,Yes,acquirer 366,merchant 8,7011.0,Yes,2023,1,29,0,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)"
+card 998,2023-04-24,21:26:04.0,4162.0,Magnetic Stripe,98.76,USA,CP,No,No,acquirer 18,merchant 410,5912.0,Yes,2023,4,24,0,Drug Stores and Pharmacies
+card 4341,2023-02-07,12:22:19.0,1132.0,Chip,7.45,USA,CP,Yes,No,acquirer 26,merchant 1386,7513.0,Yes,2023,2,7,0,Truck and Utility Trailer Rentals
+card 1179,2023-01-21,18:34:55.0,1067.0,Chip,25.86,USA,CP,Yes,No,acquirer 18,merchant 1090,5331.0,Yes,2023,1,21,0,Variety Stores
+card 867,2023-11-02,58:58:.0,897.0,Paypass - Contactless,21.34,FRA,CP,Yes,Yes,acquirer 66,merchant 46,5814.0,Yes,2023,11,2,0,Fast Food Restaurants
+card 356,2023-12-07,13:35:10.0,782.0,Chip,15.83,USA,CP,Yes,No,acquirer 18,merchant 84,5814.0,Yes,2023,12,7,0,Fast Food Restaurants
+card 3242,2023-12-08,20:36:55.0,547.0,Paypass - Contactless,36.78,BRA,CP,Yes,Yes,acquirer 423,merchant 227,5311.0,Yes,2023,12,8,0,Department Stores
+card 867,2023-11-03,16:33:05.0,1002.0,Paypass - Contactless,21.34,FRA,CP,Yes,Yes,acquirer 111,merchant 25,5462.0,Yes,2023,11,3,0,Bakeries
+card 1179,2023-01-21,18:47:00.0,1597.0,Chip,14.75,USA,CP,Yes,No,acquirer 24,merchant 1770,5331.0,Yes,2023,1,21,0,Variety Stores
+card 1596,2023-03-04,11:41:8.0,2292.0,Magnetic Stripe,94.62,ITA,CP,No,Yes,acquirer 269,merchant 8,7011.0,Yes,2023,3,4,0,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)"
+card 544,2023-09-10,14:01:02.0,4437.0,PayPass - Wallet,49.99,USA,CP,Yes,No,acquirer 45,merchant 418,5945.0,Yes,2023,9,10,0,"Hobby, Toy, and Game Shops"
+card 358,2023-11-05,12:57:49.0,1727.0,Chip,89.59,USA,CP,Yes,No,acquirer 138,merchant 1,5812.0,Yes,2023,11,5,0,Eating places and Restaurants
+card 3242,2023-12-07,19:25:56.0,892.0,Paypass - Contactless,34.58,BRA,CP,Yes,Yes,acquirer 139,merchant 64,5921.0,Yes,2023,12,7,0,"Package Stores – Beer, Wine, and Liquor"
+card 818,2023-10-23,10:46:39.0,917.0,Magnetic Stripe,92.0,USA,CP,No,No,acquirer 1039,merchant 1,5812.0,Yes,2023,10,23,0,Eating places and Restaurants
+card 867,2023-11-03,16:50:50.0,1432.0,Paypass - Contactless,53.35,FRA,CP,Yes,Yes,acquirer 66,merchant 203,5712.0,Yes,2023,11,3,0,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances"
+card 6463,2023-05-12,85:20:0.0,732.0,Paypass - Contactless,8.97,USA,CP,Yes,No,acquirer 49,merchant 46,5814.0,Yes,2023,5,12,0,Fast Food Restaurants
+card 1757,2023-04-17,10:59:57.0,547.0,Chip,4.39,USA,CP,Yes,No,acquirer 341,merchant 11,5411.0,Yes,2023,4,17,0,"Grocery Stores, Supermarkets"
+card 3938,2023-05-28,21:14:56.0,1392.0,Paypass - Contactless,0.5,USA,CP,Yes,No,acquirer 79,merchant 1,5812.0,Yes,2023,5,28,0,Eating places and Restaurants
+card 6619,2023-01-06,15:13:54.0,1327.0,Magnetic Stripe,268.3,USA,CP,No,No,acquirer 6,merchant 2146,3638.0,Yes,2023,1,6,0,"HO JO INN, HOWARD JOHNSON"
+card 4226,2023-06-29,10:34:9.0,1897.0,Magnetic Stripe,25.0,USA,CP,No,No,acquirer 9,merchant 55,7230.0,Yes,2023,6,29,0,Barber and Beauty Shops
+card 3242,2023-12-07,16:48:38.0,1762.0,Paypass - Contactless,20.19,BRA,CP,Yes,Yes,acquirer 139,merchant 227,5311.0,Yes,2023,12,7,0,Department Stores
+card 3242,2023-12-05,15:36:20.0,1672.0,Paypass - Contactless,21.93,BRA,CP,Yes,Yes,acquirer 423,merchant 11,5411.0,Yes,2023,12,5,0,"Grocery Stores, Supermarkets"
+card 6868,2023-01-09,10:19:05.0,877.0,Chip,18.0,USA,CP,Yes,No,acquirer 26,merchant 1431,5541.0,Yes,2023,1,9,0,Service Stations ( with or without ancillary services)
+card 358,2023-11-06,20:18:26.0,607.0,Paypass - Contactless,11.0,USA,CP,Yes,No,acquirer 49,merchant 211,5812.0,Yes,2023,11,6,0,Eating places and Restaurants
+card 3242,2023-12-04,32:09:.0,1837.0,Paypass - Contactless,20.63,BRA,CP,Yes,Yes,acquirer 139,merchant 46,5814.0,Yes,2023,12,4,0,Fast Food Restaurants
+card 3025,2023-01-10,19:54:01.0,587.0,Chip,168.99,USA,CP,Yes,No,acquirer 26,merchant 1,5812.0,Yes,2023,1,10,0,Eating places and Restaurants
+card 998,2023-04-24,20:11:57.0,3667.0,Magnetic Stripe,81.21,USA,CP,No,No,acquirer 18,merchant 410,5912.0,Yes,2023,4,24,0,Drug Stores and Pharmacies
+card 7013,2023-09-09,18:20:51.0,1547.0,PayPass - Wallet,375.49,GBR,CP,Yes,Yes,acquirer 108,merchant 418,5945.0,Yes,2023,9,9,0,"Hobby, Toy, and Game Shops"
+card 3025,2023-02-04,15:62:2.0,1742.0,Magnetic Stripe,510.0,USA,CP,No,No,acquirer 6,merchant 974,3715.0,Yes,2023,2,4,0,FARIFIELD INN
+card 998,2023-04-24,19:56:36.0,3107.0,Magnetic Stripe,79.55,USA,CP,No,No,acquirer 18,merchant 410,5912.0,Yes,2023,4,24,0,Drug Stores and Pharmacies
+card 544,2023-09-10,13:16:13.0,3652.0,PayPass - Wallet,49.99,USA,CP,Yes,No,acquirer 45,merchant 418,5945.0,Yes,2023,9,10,0,"Hobby, Toy, and Game Shops"
+card 867,2023-11-03,20:17:47.0,3882.0,Paypass - Contactless,52.72,FRA,CP,Yes,Yes,acquirer 174,merchant 11,5411.0,Yes,2023,11,3,0,"Grocery Stores, Supermarkets"
+card 867,2023-11-03,18:50:56.0,3627.0,Paypass - Contactless,15.99,FRA,CP,Yes,Yes,acquirer 235,merchant 449,5661.0,Yes,2023,11,3,0,Shoe Stores
+card 5858,2023-08-12,55:65:3.0,1902.0,Paypass - Contactless,33.09,CAN,CP,Yes,Yes,acquirer 252,merchant 533,5814.0,Yes,2023,8,12,0,Fast Food Restaurants
+card 7382,2023-07-04,20:41:44.0,697.0,Paypass - Contactless,10.38,ARM,CP,Yes,Yes,acquirer 435,merchant 678,4225.0,Yes,2023,7,4,0,"Public warehousing, Storage"
+card 7480,2023-06-22,20:11:28.0,817.0,Chip,12.08,USA,CP,Yes,No,acquirer 4,merchant 1,5812.0,Yes,2023,6,22,0,Eating places and Restaurants
+card 2642,2023-07-16,18:26:00.0,3952.0,Chip,22.48,USA,CP,Yes,No,acquirer 25,merchant 4,5814.0,Yes,2023,7,16,0,Fast Food Restaurants
+card 358,2023-11-13,81:64:5.0,547.0,Paypass - Contactless,11.44,USA,CP,Yes,No,acquirer 28,merchant 1397,3654.0,Yes,2023,11,13,0,LOEWS HOTELS
+card 2565,2023-10-07,52:12:.0,2427.0,Chip,51.36,USA,CP,Yes,No,acquirer 33,merchant 1,5812.0,Yes,2023,10,7,0,Eating places and Restaurants
+card 1757,2023-04-25,14:35:52.0,1202.0,Magnetic Stripe,144.0,USA,CP,No,No,acquirer 183,merchant 42,7298.0,Yes,2023,4,25,0,Health and Beauty Shops
+card 1133,2023-06-30,17:56:18.0,1482.0,Paypass - Contactless,229.79,ITA,CP,Yes,Yes,acquirer 873,merchant 55,7230.0,Yes,2023,6,30,0,Barber and Beauty Shops
+card 867,2023-11-03,18:07:07.0,2607.0,Paypass - Contactless,53.35,FRA,CP,Yes,Yes,acquirer 66,merchant 2624,5712.0,Yes,2023,11,3,0,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances"
+card 6479,2023-02-04,19:57:46.0,2017.0,Magnetic Stripe,31.13,USA,CP,No,No,acquirer 1039,merchant 283,5732.0,Yes,2023,2,4,0,Electronic Sales
+card 818,2023-10-29,11:36:54.0,2192.0,Magnetic Stripe,51.54,USA,CP,No,No,acquirer 1039,merchant 1,5812.0,Yes,2023,10,29,0,Eating places and Restaurants
+card 42,2023-07-11,22:24:38.0,4127.0,Online,44.88,SGP,CNP,No,Yes,acquirer 31,merchant 26,5816.0,Yes,2023,7,11,0,Digital Goods: Games
+card 262,2023-04-12,50:63:5.0,2137.0,Online,55.0,LBN,CNP,No,Yes,acquirer 106,merchant 62,7399.0,Yes,2023,4,12,0,"Business Services, Not Elsewhere Classified"
+card 1104,2023-03-10,22:13:40.0,787.0,Subscription,9.99,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,3,10,0,Cable and other pay television (previously Cable Services)
+card 1430,2023-08-29,72:04:8.0,2112.0,Phone,4.0,USA,CNP,No,No,acquirer 6,merchant 70,5968.0,Yes,2023,8,29,0,Direct Marketing – Continuity/Subscription Merchant
+card 1663,2023-01-14,72:92:1.0,1157.0,Subscription,47.86,USA,CNP,No,No,acquirer 188,merchant 61,4899.0,Yes,2023,1,14,0,Cable and other pay television (previously Cable Services)
+card 1803,2023-04-05,15:41:30.0,3447.0,Subscription,63.8,USA,CNP,No,No,acquirer 6,merchant 539,5818.0,Yes,2023,4,5,0,Digital Goods: Large Digital Goods Merchant
+card 1823,2023-09-21,12:05:41.0,2277.0,Phone,2591.7,USA,CNP,No,No,acquirer 6,merchant 584,1761.0,Yes,2023,9,21,0,"Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors"
+card 1922,2023-11-30,44:02:6.0,3092.0,Online,5.54,GBR,CNP,No,Yes,acquirer 14,merchant 62,7399.0,Yes,2023,11,30,0,"Business Services, Not Elsewhere Classified"
+card 1992,2023-11-29,19:46:17.0,3832.0,Online,94.18,SGP,CNP,No,Yes,acquirer 128,merchant 177,7311.0,Yes,2023,11,29,0,Advertising Services
+card 2138,2023-04-23,32:12:8.0,4507.0,Subscription,11.28,GBR,CNP,No,Yes,acquirer 463,merchant 141,5967.0,Yes,2023,4,23,0,Direct Marketing – Inbound Teleservices Merchant
+card 1922,2023-11-13,14:08:57.0,2537.0,Online,13.07,GBR,CNP,No,Yes,acquirer 467,merchant 143,5735.0,Yes,2023,11,13,0,Record Shops
+card 2195,2023-06-21,19:44:46.0,387.0,Online,75.0,USA,CNP,No,No,acquirer 6,merchant 699,3509.0,Yes,2023,6,21,0,MARRIOTT HOTELS
+card 27,2023-05-24,10:33:13.0,2242.0,Unknown,179.7,DOM,CNP,No,Yes,acquirer 484,merchant 691,7011.0,Yes,2023,5,24,0,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)"
+card 2588,2023-05-02,27:52:.0,3017.0,Online,300.0,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,5,2,0,Money Orders – Wire Transfer
+card 2430,2023-01-31,15:23:50.0,4682.0,Online,1000.0,USA,CNP,No,No,acquirer 212,merchant 840,6051.0,Yes,2023,1,31,0,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques"
+card 1986,2023-02-24,21:40:12.0,377.0,Online,8.99,USA,CNP,No,No,acquirer 6,merchant 76,5942.0,Yes,2023,2,24,0,Book Stores
+card 2885,2023-02-01,15:26:05.0,1517.0,Online,45.96,USA,CNP,No,No,acquirer 65,merchant 127,5942.0,Yes,2023,2,1,0,Book Stores
+card 2400,2023-06-19,14:26:54.0,3927.0,Online,587.38,USA,CNP,No,No,acquirer 630,merchant 38,6513.0,Yes,2023,6,19,0,Real Estate Agents and Managers - Rentals
+card 850,2023-09-06,90:61:5.0,1022.0,Subscription,3.99,USA,CNP,No,No,acquirer 22,merchant 40,5734.0,Yes,2023,9,6,0,Computer Software Stores
+card 3217,2023-04-05,62:35:3.0,3922.0,Online,86.34,FRA,CNP,No,Yes,acquirer 174,merchant 610,5200.0,Yes,2023,4,5,0,Home Supply Warehouse Stores
+card 1283,2023-09-03,12:20:08.0,537.0,Subscription,20.0,USA,CNP,No,No,acquirer 22,merchant 40,5734.0,Yes,2023,9,3,0,Computer Software Stores
+card 3736,2023-09-19,21:50:4.0,3607.0,Subscription,156.0,USA,CNP,No,No,acquirer 22,merchant 317,4814.0,Yes,2023,9,19,0,"Fax services, Telecommunication Services"
+card 524,2023-10-13,62:43:8.0,3712.0,Online,4.99,GIB,CNP,No,Yes,acquirer 324,merchant 26,5816.0,Yes,2023,10,13,0,Digital Goods: Games
+card 3751,2023-04-06,14:43:54.0,207.0,Online,9.99,USA,CNP,No,No,acquirer 2,merchant 2,5999.0,Yes,2023,4,6,0,Miscellaneous and Specialty Retail Stores
+card 3787,2023-01-06,94:14:9.0,902.0,Subscription,10.62,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,1,6,0,Cable and other pay television (previously Cable Services)
+card 3827,2023-01-14,29:55:.0,4302.0,Subscription,1.0,USA,CNP,No,No,acquirer 6,merchant 5,5816.0,Yes,2023,1,14,0,Digital Goods: Games
+card 160,2023-07-04,17:06:44.0,4532.0,Online,43.92,KEN,CNP,No,Yes,acquirer 608,merchant 11,5411.0,Yes,2023,7,4,0,"Grocery Stores, Supermarkets"
+card 1064,2023-02-15,33:00:2.0,202.0,Online,90.71,USA,CNP,No,No,acquirer 2,merchant 2,4121.0,Yes,2023,2,15,0,Taxicabs and Limousines
+card 3984,2023-09-28,21:19:05.0,3772.0,Subscription,10.99,USA,CNP,No,No,acquirer 1,merchant 53,5815.0,Yes,2023,9,28,0,"Digital Goods: Media, Books, Movies, Music"
+card 4057,2023-11-14,19:26:09.0,4162.0,Online,6.39,IND,CNP,No,Yes,acquirer 773,merchant 186,5977.0,Yes,2023,11,14,0,Cosmetic Stores
+card 4135,2023-08-15,10:56:01.0,4177.0,Online,58.2,ECU,CNP,No,Yes,acquirer 785,merchant 671,7929.0,Yes,2023,8,15,0,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)"
+card 4146,2023-12-17,14:08:17.0,3257.0,Online,121.58,GBR,CNP,No,Yes,acquirer 14,merchant 1115,5311.0,Yes,2023,12,17,0,Department Stores
+card 4190,2023-04-14,24:83:0.0,3552.0,Online,85.8,LBN,CNP,No,Yes,acquirer 106,merchant 149,9399.0,Yes,2023,4,14,0,Government Services ( Not Elsewhere Classified)
+card 3801,2023-05-31,17:58:28.0,4472.0,Subscription,2.98,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,5,31,0,Advertising Services
+card 1283,2023-09-11,17:09:29.0,1612.0,Subscription,46.0,USA,CNP,No,No,acquirer 6,merchant 1165,4816.0,Yes,2023,9,11,0,Computer Network Services
+card 4294,2023-10-26,15:17:43.0,4467.0,Online,178.45,BRA,CNP,No,Yes,acquirer 322,merchant 156,4722.0,Yes,2023,10,26,0,Travel Agencies and Tour Operations
+card 3459,2023-11-28,15:14:36.0,2782.0,Online,91.52,SGP,CNP,No,Yes,acquirer 128,merchant 177,7311.0,Yes,2023,11,28,0,Advertising Services
+card 3320,2023-07-25,12:59:15.0,4032.0,Subscription,9.95,GBR,CNP,No,Yes,acquirer 805,merchant 40,5734.0,Yes,2023,7,25,0,Computer Software Stores
+card 818,2023-10-14,22:32:48.0,3132.0,Unknown,206.73,USA,CNP,No,No,acquirer 21,merchant 1230,3504.0,Yes,2023,10,14,0,HILTON HOTELS
+card 4469,2023-12-05,14:23:4.0,1832.0,Online,5.99,USA,CNP,No,No,acquirer 21,merchant 22,7372.0,Yes,2023,12,5,0,"Computer Programming, Integrated Systems Design and Data Processing Services"
+card 4561,2023-11-15,83:54:8.0,4147.0,Online,280.52,USA,CNP,No,No,acquirer 22,merchant 298,5699.0,Yes,2023,11,15,0,Miscellaneous Apparel and Accessory Shops
+card 1906,2023-08-18,14:36:17.0,1072.0,Online,159.96,USA,CNP,No,No,acquirer 4,merchant 148,5331.0,Yes,2023,8,18,0,Variety Stores
+card 4614,2023-10-31,93:23:7.0,3552.0,Online,2.21,USA,CNP,No,No,acquirer 10,merchant 2,4121.0,Yes,2023,10,31,0,Taxicabs and Limousines
+card 4872,2023-06-16,18:29:33.0,1467.0,Online,449.02,USA,CNP,No,No,acquirer 1,merchant 604,4722.0,Yes,2023,6,16,0,Travel Agencies and Tour Operations
+card 524,2023-09-09,12:05:59.0,2342.0,Online,36.24,USA,CNP,No,No,acquirer 212,merchant 53,5815.0,Yes,2023,9,9,0,"Digital Goods: Media, Books, Movies, Music"
+card 4926,2023-11-05,15:32:34.0,3792.0,Subscription,0.16,USA,CNP,No,No,acquirer 10,merchant 2,4121.0,Yes,2023,11,5,0,Taxicabs and Limousines
+card 1160,2023-05-21,21:26:13.0,917.0,Online,3.99,USA,CNP,No,No,acquirer 6,merchant 76,5942.0,Yes,2023,5,21,0,Book Stores
+card 4146,2023-12-15,12:51:7.0,4077.0,Online,250.5,DEU,CNP,No,Yes,acquirer 321,merchant 156,4722.0,Yes,2023,12,15,0,Travel Agencies and Tour Operations
+card 5159,2023-03-06,72:50:6.0,2087.0,Unknown,15.0,USA,CNP,No,No,acquirer 79,merchant 37,7997.0,Yes,2023,3,6,0,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+card 3456,2023-05-22,10:13:2.0,2532.0,Subscription,3.0,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,5,22,0,Advertising Services
+card 5257,2023-11-28,43:12:8.0,3812.0,Online,91.52,SGP,CNP,No,Yes,acquirer 134,merchant 177,7311.0,Yes,2023,11,28,0,Advertising Services
+card 3944,2023-05-08,11:46:45.0,3167.0,Subscription,19.99,USA,CNP,No,No,acquirer 6,merchant 539,5818.0,Yes,2023,5,8,0,Digital Goods: Large Digital Goods Merchant
+card 5372,2023-02-22,64:75:8.0,922.0,Online,139.0,USA,CNP,No,No,acquirer 6,merchant 76,5942.0,Yes,2023,2,22,0,Book Stores
+card 1328,2023-12-30,12:12:05.0,4642.0,Subscription,45.0,USA,CNP,No,No,acquirer 936,merchant 141,5967.0,Yes,2023,12,30,0,Direct Marketing – Inbound Teleservices Merchant
+card 3487,2023-02-06,20:19:41.0,3672.0,Online,5.0,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,2,6,0,Money Orders – Wire Transfer
+card 5472,2023-09-08,61:23:3.0,4252.0,Online,53.0,USA,CNP,No,No,acquirer 22,merchant 1013,5817.0,Yes,2023,9,8,0,Digital Goods: Applications (Excludes Games)
+card 2260,2023-10-13,10:27:25.0,1862.0,Online,13.26,USA,CNP,No,No,acquirer 2,merchant 9,5812.0,Yes,2023,10,13,0,Eating places and Restaurants
+card 3827,2023-01-14,21:30:12.0,3827.0,Subscription,5.0,USA,CNP,No,No,acquirer 6,merchant 5,5816.0,Yes,2023,1,14,0,Digital Goods: Games
+card 1906,2023-08-13,15:33:52.0,1172.0,Online,39.97,USA,CNP,No,No,acquirer 296,merchant 31,5941.0,Yes,2023,8,13,0,Sporting Goods Stores
+card 3801,2023-05-31,13:37:01.0,4787.0,Subscription,19.35,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,5,31,0,Advertising Services
+card 4945,2023-01-25,13:52:1.0,1812.0,Online,39.71,USA,CNP,No,No,acquirer 2,merchant 210,5812.0,Yes,2023,1,25,0,Eating places and Restaurants
+card 818,2023-10-22,14:16:24.0,487.0,Subscription,121.55,GBR,CNP,No,Yes,acquirer 204,merchant 89,8999.0,Yes,2023,10,22,0,Professional Services ( Not Elsewhere Defined)
+card 5721,2023-08-18,13:42:31.0,3707.0,Subscription,17.0,USA,CNP,No,No,acquirer 22,merchant 317,4814.0,Yes,2023,8,18,0,"Fax services, Telecommunication Services"
+card 1104,2023-02-10,22:13:41.0,1607.0,Subscription,9.99,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,2,10,0,Cable and other pay television (previously Cable Services)
+card 5751,2023-01-02,30:05:3.0,482.0,Online,26.36,USA,CNP,No,No,acquirer 1,merchant 235,5965.0,Yes,2023,1,2,0,Direct Marketing – Catalog and Catalog and Retail Merchant
+card 818,2023-09-05,20:40:53.0,3147.0,Unknown,346.62,USA,CNP,No,No,acquirer 28,merchant 1779,3562.0,Yes,2023,9,5,0,COMFORT INNS
+card 3751,2023-04-14,16:59:43.0,237.0,Online,65.01,USA,CNP,No,No,acquirer 2,merchant 159,5942.0,Yes,2023,4,14,0,Book Stores
+card 3384,2023-01-12,10:15:30.0,3782.0,Subscription,73.86,CAN,CNP,No,Yes,acquirer 73,merchant 76,5968.0,Yes,2023,1,12,0,Direct Marketing – Continuity/Subscription Merchant
+card 93,2023-11-27,28:09:.0,1157.0,Online,134.06,JPN,CNP,No,Yes,acquirer 99,merchant 308,4112.0,Yes,2023,11,27,0,Passenger Railways
+card 1239,2023-06-09,11:36:47.0,4792.0,Online,46.41,GBR,CNP,No,Yes,acquirer 350,merchant 95,5399.0,Yes,2023,6,9,0,Misc. General Merchandise
+card 579,2023-07-29,18:11:00.0,1127.0,Online,91.09,GBR,CNP,No,Yes,acquirer 11,merchant 9,5812.0,Yes,2023,7,29,0,Eating places and Restaurants
+card 1179,2023-01-24,23:70:6.0,977.0,Online,3.06,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,1,24,0,Money Orders – Wire Transfer
+card 1283,2023-07-11,17:04:19.0,2017.0,Subscription,46.0,USA,CNP,No,No,acquirer 6,merchant 1165,4816.0,Yes,2023,7,11,0,Computer Network Services
+card 2588,2023-04-30,19:38:24.0,3952.0,Online,1.25,USA,CNP,No,No,acquirer 308,merchant 141,5967.0,Yes,2023,4,30,0,Direct Marketing – Inbound Teleservices Merchant
+card 5993,2023-01-30,51:03:1.0,1682.0,Subscription,1.0,USA,CNP,No,No,acquirer 22,merchant 38,6513.0,Yes,2023,1,30,0,Real Estate Agents and Managers - Rentals
+card 5994,2023-05-31,42:55:7.0,1452.0,Online,750.0,USA,CNP,No,No,acquirer 1,merchant 120,4829.0,Yes,2023,5,31,0,Money Orders – Wire Transfer
+card 6042,2023-06-19,31:64:3.0,1252.0,Online,362.99,USA,CNP,No,No,acquirer 1,merchant 235,5965.0,Yes,2023,6,19,0,Direct Marketing – Catalog and Catalog and Retail Merchant
+card 900,2023-03-24,90:82:0.0,3192.0,Online,39.99,USA,CNP,No,No,acquirer 1049,merchant 32,5968.0,Yes,2023,3,24,0,Direct Marketing – Continuity/Subscription Merchant
+card 6124,2023-08-08,25:31:8.0,4197.0,Online,27.11,MEX,CNP,No,Yes,acquirer 796,merchant 22,7372.0,Yes,2023,8,8,0,"Computer Programming, Integrated Systems Design and Data Processing Services"
+card 524,2023-10-13,63:53:3.0,4017.0,Online,39.99,GIB,CNP,No,Yes,acquirer 324,merchant 26,5816.0,Yes,2023,10,13,0,Digital Goods: Games
+card 818,2023-10-10,na:n:,837.0,Subscription,63.76,USA,CNP,No,No,acquirer 58,merchant 92,5999.0,Yes,2023,10,10,0,Miscellaneous and Specialty Retail Stores
+card 674,2023-09-08,19:41:34.0,1132.0,Online,145.86,USA,CNP,No,No,acquirer 199,merchant 1736,5651.0,Yes,2023,9,8,0,Family Clothing Stores
+card 5871,2023-10-25,40:22:8.0,3432.0,Online,5.82,USA,CNP,No,No,acquirer 311,merchant 878,5964.0,Yes,2023,10,25,0,Direct Marketing – Catalog Merchant
+card 4582,2023-12-21,25:51:8.0,3937.0,Online,299.99,USA,CNP,No,No,acquirer 311,merchant 878,5964.0,Yes,2023,12,21,0,Direct Marketing – Catalog Merchant
+card 6222,2023-11-29,84:75:5.0,2832.0,Online,91.52,SGP,CNP,No,Yes,acquirer 134,merchant 177,7311.0,Yes,2023,11,29,0,Advertising Services
+card 3861,2023-12-17,22:15:21.0,1907.0,Online,57.76,USA,CNP,No,No,acquirer 65,merchant 76,5942.0,Yes,2023,12,17,0,Book Stores
+card 2260,2023-08-30,12:34:40.0,2072.0,Online,21.03,USA,CNP,No,No,acquirer 2,merchant 2,4121.0,Yes,2023,8,30,0,Taxicabs and Limousines
+card 1499,2023-12-07,14:12:55.0,1157.0,Phone,1.0,USA,CNP,No,No,acquirer 6,merchant 70,5968.0,Yes,2023,12,7,0,Direct Marketing – Continuity/Subscription Merchant
+card 6262,2023-11-27,34:20:9.0,3777.0,Online,91.52,SGP,CNP,No,Yes,acquirer 134,merchant 177,7311.0,Yes,2023,11,27,0,Advertising Services
+card 3751,2023-02-20,18:06:18.0,897.0,Subscription,48.76,USA,CNP,No,No,acquirer 2,merchant 432,5818.0,Yes,2023,2,20,0,Digital Goods: Large Digital Goods Merchant
+card 397,2023-10-09,13:58:11.0,3557.0,Online,81.39,FIN,CNP,No,Yes,acquirer 321,merchant 31,5941.0,Yes,2023,10,9,0,Sporting Goods Stores
+card 6271,2023-02-21,15:94:0.0,2192.0,Online,5.42,USA,CNP,No,No,acquirer 1,merchant 407,5816.0,Yes,2023,2,21,0,Digital Goods: Games
+card 2430,2023-01-23,23:52:00.0,4677.0,Online,64.74,GBR,CNP,No,Yes,acquirer 11,merchant 472,4215.0,Yes,2023,1,23,0,"Courier Services – Air or Ground, Freight forwarders"
+card 4010,2023-08-09,60:94:2.0,1137.0,Online,34.0,USA,CNP,No,No,acquirer 1,merchant 4,5814.0,Yes,2023,8,9,0,Fast Food Restaurants
+card 6366,2023-10-25,20:16:14.0,3782.0,Subscription,2.99,USA,CNP,No,No,acquirer 22,merchant 27,7372.0,Yes,2023,10,25,0,"Computer Programming, Integrated Systems Design and Data Processing Services"
+card 2588,2023-05-07,20:10:09.0,4177.0,Subscription,39.95,USA,CNP,No,No,acquirer 308,merchant 141,5967.0,Yes,2023,5,7,0,Direct Marketing – Inbound Teleservices Merchant
+card 6398,2023-08-23,17:52:37.0,1927.0,Online,3.29,USA,CNP,No,No,acquirer 1,merchant 631,5699.0,Yes,2023,8,23,0,Miscellaneous Apparel and Accessory Shops
+card 6414,2023-01-30,25:13:4.0,902.0,Subscription,1.0,USA,CNP,No,No,acquirer 22,merchant 38,6513.0,Yes,2023,1,30,0,Real Estate Agents and Managers - Rentals
+card 3217,2023-04-03,20:14:13.0,4637.0,Online,66.87,FRA,CNP,No,Yes,acquirer 66,merchant 2067,6051.0,Yes,2023,4,3,0,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques"
+card 4705,2023-04-13,75:60:5.0,2492.0,Online,55.0,LBN,CNP,No,Yes,acquirer 106,merchant 62,7399.0,Yes,2023,4,13,0,"Business Services, Not Elsewhere Classified"
+card 6491,2023-04-15,11:17:23.0,4627.0,Online,35.44,NLD,CNP,No,Yes,acquirer 463,merchant 36,5995.0,Yes,2023,4,15,0,"Pet Shops, Pet Foods, and Supplies Stores"
+card 5688,2023-12-24,94:13:6.0,3372.0,Online,10.0,USA,CNP,No,No,acquirer 6,merchant 76,5942.0,Yes,2023,12,24,0,Book Stores
+card 498,2023-03-28,23:23:17.0,607.0,Online,21.76,USA,CNP,No,No,acquirer 2,merchant 139,8999.0,Yes,2023,3,28,0,Professional Services ( Not Elsewhere Defined)
+card 4698,2023-10-16,22:55:22.0,4852.0,Online,192.74,IND,CNP,No,Yes,acquirer 773,merchant 298,5699.0,Yes,2023,10,16,0,Miscellaneous Apparel and Accessory Shops
+card 5201,2023-06-02,20:31:28.0,2322.0,Online,38.79,USA,CNP,No,No,acquirer 1,merchant 4,5814.0,Yes,2023,6,2,0,Fast Food Restaurants
+card 4741,2023-11-29,63:33:7.0,3902.0,Online,91.52,SGP,CNP,No,Yes,acquirer 134,merchant 177,7311.0,Yes,2023,11,29,0,Advertising Services
+card 3398,2023-04-01,83:84:8.0,4112.0,Online,329.87,USA,CNP,No,No,acquirer 22,merchant 7,5499.0,Yes,2023,4,1,0,Misc. Food Stores – Convenience Stores and Specialty Markets
+card 6529,2023-03-15,65:71:0.0,852.0,Online,28.47,USA,CNP,No,No,acquirer 398,merchant 90,8220.0,Yes,2023,3,15,0,"Colleges, Junior Colleges, Universities, and ProfessionalSchools"
+card 818,2023-10-16,13:18:19.0,292.0,Subscription,15.28,GBR,CNP,No,Yes,acquirer 204,merchant 317,4814.0,Yes,2023,10,16,0,"Fax services, Telecommunication Services"
+card 2430,2023-01-24,12:35:00.0,4647.0,Online,69.6,GBR,CNP,No,Yes,acquirer 11,merchant 472,4215.0,Yes,2023,1,24,0,"Courier Services – Air or Ground, Freight forwarders"
+card 6550,2023-04-05,19:02:50.0,1687.0,Phone,0.63,GBR,CNP,No,Yes,acquirer 14,merchant 90,8220.0,Yes,2023,4,5,0,"Colleges, Junior Colleges, Universities, and ProfessionalSchools"
+card 5061,2023-10-29,19:59:39.0,707.0,Subscription,10.99,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,10,29,0,Cable and other pay television (previously Cable Services)
+card 1906,2023-08-18,14:35:58.0,1292.0,Online,199.95,USA,CNP,No,No,acquirer 4,merchant 148,5331.0,Yes,2023,8,18,0,Variety Stores
+card 4935,2023-03-22,12:45:15.0,3467.0,Online,45.92,SGP,CNP,No,Yes,acquirer 31,merchant 26,5816.0,Yes,2023,3,22,0,Digital Goods: Games
+card 5598,2023-06-29,19:17:23.0,3942.0,Subscription,1000.0,USA,CNP,No,No,acquirer 16,merchant 101,8299.0,Yes,2023,6,29,0,Schools and Educational Services ( Not Elsewhere Classified)
+card 524,2023-10-15,41:27:.0,4382.0,Online,158.44,DEU,CNP,No,Yes,acquirer 10,merchant 392,5251.0,Yes,2023,10,15,0,Hardware Stores
+card 6663,2023-11-11,11:22:58.0,3717.0,Unknown,1405.54,USA,CNP,No,No,acquirer 26,merchant 132,5532.0,Yes,2023,11,11,0,Automotive Tire Stores
+card 3929,2023-11-28,12:35:53.0,2457.0,Online,94.18,SGP,CNP,No,Yes,acquirer 128,merchant 177,7311.0,Yes,2023,11,28,0,Advertising Services
+card 6459,2023-10-06,61:72:4.0,3877.0,Subscription,10.99,USA,CNP,No,No,acquirer 1,merchant 53,5815.0,Yes,2023,10,6,0,"Digital Goods: Media, Books, Movies, Music"
+card 2642,2023-07-16,12:44:.0,3962.0,Online,28.8,USA,CNP,No,No,acquirer 6,merchant 317,4814.0,Yes,2023,7,16,0,"Fax services, Telecommunication Services"
+card 434,2023-08-09,14:10:54.0,3407.0,Subscription,12.99,GBR,CNP,No,Yes,acquirer 714,merchant 247,7273.0,Yes,2023,8,9,0,Dating and Escort Services
+card 1757,2023-04-17,74:35:2.0,592.0,Online,5.0,USA,CNP,No,No,acquirer 22,merchant 52,7999.0,Yes,2023,4,17,0,Recreation Services (Not Elsewhere Classified)
+card 45,2023-04-03,15:57:34.0,2422.0,Online,45.9,SGP,CNP,No,Yes,acquirer 31,merchant 26,5816.0,Yes,2023,4,3,0,Digital Goods: Games
+card 6836,2023-03-03,17:43:25.0,437.0,Subscription,10.54,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,3,3,0,Cable and other pay television (previously Cable Services)
+card 2588,2023-05-12,16:09:07.0,3942.0,Online,50.0,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,5,12,0,Money Orders – Wire Transfer
+card 6861,2023-11-28,19:08:43.0,2977.0,Online,91.52,SGP,CNP,No,Yes,acquirer 134,merchant 177,7311.0,Yes,2023,11,28,0,Advertising Services
+card 6862,2023-11-27,11:56:38.0,1982.0,Online,91.52,SGP,CNP,No,Yes,acquirer 128,merchant 177,7311.0,Yes,2023,11,27,0,Advertising Services
+card 2260,2023-10-17,18:08:18.0,2742.0,Online,37.12,USA,CNP,No,No,acquirer 2,merchant 2,4121.0,Yes,2023,10,17,0,Taxicabs and Limousines
+card 5159,2023-03-05,20:30:46.0,1787.0,Unknown,15.0,USA,CNP,No,No,acquirer 79,merchant 37,7997.0,Yes,2023,3,5,0,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+card 4582,2023-12-10,10:00:20.0,4162.0,Online,249.99,USA,CNP,No,No,acquirer 311,merchant 878,5964.0,Yes,2023,12,10,0,Direct Marketing – Catalog Merchant
+card 36,2023-11-23,20:54:38.0,3882.0,Online,1.99,USA,CNP,No,No,acquirer 1,merchant 377,4829.0,Yes,2023,11,23,0,Money Orders – Wire Transfer
+card 3487,2023-02-07,21:21:17.0,3067.0,Online,17.0,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,2,7,0,Money Orders – Wire Transfer
+card 6412,2023-11-05,75:55:8.0,3987.0,Subscription,53.0,IRL,CNP,No,Yes,acquirer 148,merchant 247,7273.0,Yes,2023,11,5,0,Dating and Escort Services
+card 3456,2023-05-22,53:34:9.0,4117.0,Subscription,5.2,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,5,22,0,Advertising Services
+card 818,2023-10-01,72:34:7.0,2672.0,Online,44.08,USA,CNP,No,No,acquirer 6,merchant 796,4225.0,Yes,2023,10,1,0,"Public warehousing, Storage"
+card 972,2023-11-29,15:16:21.0,2137.0,Online,16.69,USA,CNP,No,No,acquirer 2,merchant 148,5331.0,Yes,2023,11,29,0,Variety Stores
+card 2648,2023-01-20,54:82:8.0,4932.0,Online,419.99,ISL,CNP,No,Yes,acquirer 177,merchant 26,5816.0,Yes,2023,1,20,0,Digital Goods: Games
+card 1508,2023-04-16,15:27:35.0,4737.0,Online,85.8,LBN,CNP,No,Yes,acquirer 106,merchant 149,9399.0,Yes,2023,4,16,0,Government Services ( Not Elsewhere Classified)
+card 6409,2023-10-25,21:22:15.0,3807.0,Subscription,2.99,USA,CNP,No,No,acquirer 22,merchant 27,7372.0,Yes,2023,10,25,0,"Computer Programming, Integrated Systems Design and Data Processing Services"
+card 7097,2023-04-01,95:70:1.0,1162.0,Online,6.67,PER,CNP,No,Yes,acquirer 755,merchant 588,7372.0,Yes,2023,4,1,0,"Computer Programming, Integrated Systems Design and Data Processing Services"
+card 7100,2023-02-14,40:92:9.0,1187.0,Online,262.5,USA,CNP,No,No,acquirer 1,merchant 803,8398.0,Yes,2023,2,14,0,Charitable and Social Service Organizations
+card 782,2023-11-05,20:23:6.0,3827.0,Online,45.38,GBR,CNP,No,Yes,acquirer 144,merchant 2362,5814.0,Yes,2023,11,5,0,Fast Food Restaurants
+card 6456,2023-11-05,42:52:4.0,2677.0,Online,69.43,GBR,CNP,No,Yes,acquirer 144,merchant 2362,5814.0,Yes,2023,11,5,0,Fast Food Restaurants
+card 7149,2023-04-20,94:42:2.0,1992.0,Online,57.84,DEU,CNP,No,Yes,acquirer 321,merchant 36,5995.0,Yes,2023,4,20,0,"Pet Shops, Pet Foods, and Supplies Stores"
+card 5159,2023-03-05,20:25:14.0,1962.0,Unknown,15.0,USA,CNP,No,No,acquirer 79,merchant 37,7997.0,Yes,2023,3,5,0,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+card 2745,2023-01-30,20:19:47.0,4062.0,Online,62.14,FRA,CNP,No,Yes,acquirer 174,merchant 1,5812.0,Yes,2023,1,30,0,Eating places and Restaurants
+card 7183,2023-10-27,12:55:37.0,3697.0,Subscription,777.39,USA,CNP,No,No,acquirer 6,merchant 178,4899.0,Yes,2023,10,27,0,Cable and other pay television (previously Cable Services)
+card 1992,2023-11-29,19:35:46.0,2497.0,Online,94.18,SGP,CNP,No,Yes,acquirer 128,merchant 177,7311.0,Yes,2023,11,29,0,Advertising Services
+card 2260,2023-10-14,20:26:16.0,1462.0,Online,15.19,USA,CNP,No,No,acquirer 2,merchant 2,4121.0,Yes,2023,10,14,0,Taxicabs and Limousines
+card 740,2023-03-14,21:17:53.0,3472.0,Online,199.99,USA,CNP,No,No,acquirer 16,merchant 26,5816.0,Yes,2023,3,14,0,Digital Goods: Games
+card 2001,2023-11-17,15:03:02.0,3702.0,Subscription,4.99,NLD,CNP,No,Yes,acquirer 10,merchant 304,5817.0,Yes,2023,11,17,0,Digital Goods: Applications (Excludes Games)
+card 7218,2023-04-15,11:11:44.0,3182.0,Online,85.8,LBN,CNP,No,Yes,acquirer 106,merchant 149,9399.0,Yes,2023,4,15,0,Government Services ( Not Elsewhere Classified)
+card 7227,2023-01-21,20:54:0.0,1132.0,Online,175.0,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,1,21,0,Money Orders – Wire Transfer
+card 3181,2023-07-02,21:24:52.0,2682.0,Online,24.96,USA,CNP,No,No,acquirer 2,merchant 9,5812.0,Yes,2023,7,2,0,Eating places and Restaurants
+card 3181,2023-06-12,18:06:08.0,477.0,Online,87.0,USA,CNP,No,No,acquirer 2,merchant 9,5812.0,Yes,2023,6,12,0,Eating places and Restaurants
+card 1046,2023-11-17,60:50:9.0,2957.0,Online,156.56,USA,CNP,No,No,acquirer 65,merchant 134,5999.0,Yes,2023,11,17,0,Miscellaneous and Specialty Retail Stores
+card 1013,2023-03-24,85:30:2.0,2872.0,Online,100.0,USA,CNP,No,No,acquirer 2,merchant 31,5941.0,Yes,2023,3,24,0,Sporting Goods Stores
+card 1239,2023-06-09,12:16:49.0,3267.0,Subscription,2.65,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,6,9,0,Advertising Services
+card 3622,2023-05-01,94:01:1.0,617.0,Subscription,9.99,USA,CNP,No,No,acquirer 1,merchant 206,5045.0,Yes,2023,5,1,0,"Computers, Computer Peripheral Equipment, Software"
+card 3751,2023-03-17,15:25:11.0,287.0,Online,75.85,USA,CNP,No,No,acquirer 2,merchant 159,5942.0,Yes,2023,3,17,0,Book Stores
+card 6042,2023-06-25,18:14:49.0,1272.0,Online,37.31,USA,CNP,No,No,acquirer 1,merchant 235,5965.0,Yes,2023,6,25,0,Direct Marketing – Catalog and Catalog and Retail Merchant
+card 636,2023-12-02,23:32:43.0,2382.0,Online,19.0,USA,CNP,No,No,acquirer 156,merchant 1024,7278.0,Yes,2023,12,2,0,"Buying/Shopping Services, Clubs"
+card 567,2023-11-05,22:31:30.0,1287.0,Online,32.05,GBR,CNP,No,Yes,acquirer 144,merchant 2362,5814.0,Yes,2023,11,5,0,Fast Food Restaurants
+card 7455,2023-04-26,25:05:1.0,557.0,Subscription,9.99,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,4,26,0,Cable and other pay television (previously Cable Services)
+card 2372,2023-03-17,13:41:47.0,252.0,Subscription,9.99,USA,CNP,No,No,acquirer 207,merchant 206,4899.0,Yes,2023,3,17,0,Cable and other pay television (previously Cable Services)
+card 818,2023-10-04,64:10:4.0,327.0,Subscription,109.95,GBR,CNP,No,Yes,acquirer 204,merchant 1962,5499.0,Yes,2023,10,4,0,Misc. Food Stores – Convenience Stores and Specialty Markets
+card 6393,2023-02-06,16:20:30.0,3652.0,Subscription,97.0,IRL,CNP,No,Yes,acquirer 82,merchant 101,8299.0,Yes,2023,2,6,0,Schools and Educational Services ( Not Elsewhere Classified)
+card 7473,2023-04-15,20:01:4.0,3697.0,Online,85.8,LBN,CNP,No,Yes,acquirer 106,merchant 149,9399.0,Yes,2023,4,15,0,Government Services ( Not Elsewhere Classified)
+card 1283,2023-08-29,10:46:03.0,952.0,Subscription,4.02,USA,CNP,No,No,acquirer 6,merchant 70,5968.0,Yes,2023,8,29,0,Direct Marketing – Continuity/Subscription Merchant
+card 7097,2023-04-01,71:45:0.0,502.0,Online,3.0,USA,CNP,No,No,acquirer 2,merchant 697,5533.0,Yes,2023,4,1,0,"Automotive Parts, Accessories Stores"
+card 1016,2023-05-29,24:34:0.0,2422.0,Subscription,5.0,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,5,29,0,Advertising Services
+card 6271,2023-02-21,19:49:49.0,1482.0,Online,81.46,USA,CNP,No,No,acquirer 1,merchant 407,5816.0,Yes,2023,2,21,0,Digital Goods: Games
+card 2588,2023-05-12,15:37:50.0,3877.0,Online,50.0,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,5,12,0,Money Orders – Wire Transfer
+card 5873,2023-08-06,10:17:31.0,4057.0,Online,40.94,USA,CNP,No,No,acquirer 16,merchant 95,5399.0,Yes,2023,8,6,0,Misc. General Merchandise
+card 4484,2023-12-01,15:10:34.0,2092.0,Online,8.49,USA,CNP,No,No,acquirer 156,merchant 26,5816.0,Yes,2023,12,1,0,Digital Goods: Games
+card 5871,2023-10-26,41:65:5.0,4587.0,Online,7.85,USA,CNP,No,No,acquirer 311,merchant 878,5964.0,Yes,2023,10,26,0,Direct Marketing – Catalog Merchant
+card 7616,2023-04-04,22:15:42.0,1647.0,Phone,0.24,GBR,CNP,No,Yes,acquirer 83,merchant 101,8299.0,Yes,2023,4,4,0,Schools and Educational Services ( Not Elsewhere Classified)
+card 7650,2023-04-05,11:59:16.0,4232.0,Online,34.01,DEU,CNP,No,Yes,acquirer 10,merchant 1581,5995.0,Yes,2023,4,5,0,"Pet Shops, Pet Foods, and Supplies Stores"
+card 5765,2023-09-14,21:58:33.0,3957.0,Online,544.86,USA,CNP,No,No,acquirer 16,merchant 203,5712.0,Yes,2023,9,14,0,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances"
+card 7156,2023-02-08,34:63:1.0,1707.0,Online,262.5,USA,CNP,No,No,acquirer 1,merchant 803,8398.0,Yes,2023,2,8,0,Charitable and Social Service Organizations
+card 2994,2023-02-01,72:65:8.0,3482.0,Online,21.74,NLD,CNP,No,Yes,acquirer 82,merchant 304,5817.0,Yes,2023,2,1,0,Digital Goods: Applications (Excludes Games)
+card 7710,2023-10-09,14:50:47.0,3957.0,Online,54.98,USA,CNP,No,No,acquirer 45,merchant 92,5999.0,Yes,2023,10,9,0,Miscellaneous and Specialty Retail Stores
+card 7712,2023-03-10,19:06:05.0,692.0,Online,25.9,USA,CNP,No,No,acquirer 398,merchant 90,8220.0,Yes,2023,3,10,0,"Colleges, Junior Colleges, Universities, and ProfessionalSchools"
+card 1239,2023-06-09,13:21:55.0,3582.0,Subscription,2.3,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,6,9,0,Advertising Services
+card 3866,2023-12-23,70:91:3.0,942.0,Subscription,89.86,USA,CNP,No,No,acquirer 2,merchant 139,5734.0,Yes,2023,12,23,0,Computer Software Stores
+card 7733,2023-09-08,10:33:19.0,3947.0,Online,53.0,USA,CNP,No,No,acquirer 22,merchant 1013,5817.0,Yes,2023,9,8,0,Digital Goods: Applications (Excludes Games)
+card 1985,2023-05-31,21:10:39.0,2112.0,Online,59.0,USA,CNP,No,No,acquirer 16,merchant 40,5734.0,Yes,2023,5,31,0,Computer Software Stores
+card 5873,2023-08-08,15:55:40.0,3492.0,Online,8.47,USA,CNP,No,No,acquirer 2,merchant 120,4829.0,Yes,2023,8,8,0,Money Orders – Wire Transfer
+card 1663,2023-01-14,72:95:4.0,612.0,Subscription,22.32,USA,CNP,No,No,acquirer 2,merchant 139,5734.0,Yes,2023,1,14,0,Computer Software Stores
+card 4561,2023-11-13,23:48:22.0,4382.0,Online,1.0,USA,CNP,No,No,acquirer 264,merchant 304,5817.0,Yes,2023,11,13,0,Digital Goods: Applications (Excludes Games)
+card 2267,2023-11-10,43:65:3.0,667.0,Online,23.44,USA,CNP,No,No,acquirer 1,merchant 1013,5399.0,Yes,2023,11,10,0,Misc. General Merchandise
+card 5702,2023-10-09,25:84:1.0,3682.0,Online,72.73,GBR,CNP,No,Yes,acquirer 321,merchant 186,5977.0,Yes,2023,10,9,0,Cosmetic Stores
+card 5201,2023-06-02,20:55:36.0,3827.0,Online,23.19,USA,CNP,No,No,acquirer 1,merchant 4,5814.0,Yes,2023,6,2,0,Fast Food Restaurants
+card 4034,2023-09-10,41:03:.0,1877.0,Online,27.36,USA,CNP,No,No,acquirer 120,merchant 235,5965.0,Yes,2023,9,10,0,Direct Marketing – Catalog and Catalog and Retail Merchant
+card 2134,2023-03-20,34:00:2.0,4037.0,Online,56.35,ITA,CNP,No,Yes,acquirer 82,merchant 40,5734.0,Yes,2023,3,20,0,Computer Software Stores
+card 7777,2023-10-25,21:03:08.0,3947.0,Subscription,2.99,USA,CNP,No,No,acquirer 22,merchant 27,7372.0,Yes,2023,10,25,0,"Computer Programming, Integrated Systems Design and Data Processing Services"
+card 7821,2023-01-10,13:48:52.0,1412.0,Online,27.37,USA,CNP,No,No,acquirer 22,merchant 95,5399.0,Yes,2023,1,10,0,Misc. General Merchandise
+card 1016,2023-05-29,16:46:39.0,2437.0,Subscription,2.0,USA,CNP,No,No,acquirer 1,merchant 377,7311.0,Yes,2023,5,29,0,Advertising Services
+card 4935,2023-03-22,12:46:12.0,3427.0,Online,45.92,SGP,CNP,No,Yes,acquirer 31,merchant 26,5816.0,Yes,2023,3,22,0,Digital Goods: Games
+card 3654,2023-04-15,21:54:0.0,3602.0,Online,241.7,USA,CNP,No,No,acquirer 26,merchant 1386,7513.0,Yes,2023,4,15,0,Truck and Utility Trailer Rentals
+card 7218,2023-04-13,23:33:53.0,3447.0,Online,51.5,LBN,CNP,No,Yes,acquirer 106,merchant 62,7399.0,Yes,2023,4,13,0,"Business Services, Not Elsewhere Classified"
+card 5618,2023-07-08,16:15:24.0,3072.0,Online,12.95,USA,CNP,No,No,acquirer 18,merchant 77,5310.0,Yes,2023,7,8,0,Discount Stores
+card 7844,2023-02-25,10:42:33.0,467.0,Subscription,9.99,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,2,25,0,Cable and other pay television (previously Cable Services)
+card 3787,2023-02-06,94:14:9.0,547.0,Subscription,10.62,USA,CNP,No,No,acquirer 2,merchant 206,4899.0,Yes,2023,2,6,0,Cable and other pay television (previously Cable Services)
+card 5601,2023-11-29,17:50:29.0,2847.0,Online,94.18,SGP,CNP,No,Yes,acquirer 128,merchant 177,7311.0,Yes,2023,11,29,0,Advertising Services
+card 3751,2023-06-17,13:46:52.0,702.0,Online,27.08,USA,CNP,No,No,acquirer 2,merchant 432,5818.0,Yes,2023,6,17,0,Digital Goods: Large Digital Goods Merchant
+card 7847,2023-03-29,85:91:4.0,1292.0,Subscription,0.17,GBR,CNP,No,Yes,acquirer 14,merchant 290,6300.0,Yes,2023,3,29,0,"Insurance Sales, Underwriting, and Premiums"
+card 412,2023-12-02,13:17:03.0,1092.0,Subscription,0.2,USA,CNP,No,No,acquirer 1,merchant 235,5965.0,Yes,2023,12,2,0,Direct Marketing – Catalog and Catalog and Retail Merchant
+card 7853,2023-12-31,23:42:2.0,2497.0,Unknown,236.5,USA,CNP,No,No,acquirer 21,merchant 921,3751.0,Yes,2023,12,31,0,HOMEWOOD SUITES
+card 4915,2023-09-04,20:53:46.0,4202.0,Online,39.99,USA,CNP,No,No,acquirer 308,merchant 247,7273.0,Yes,2023,9,4,0,Dating and Escort Services
+card 5818,2023-04-23,13:41:10.0,2807.0,Online,74.36,DEU,CNP,No,Yes,acquirer 321,merchant 36,5995.0,Yes,2023,4,23,0,"Pet Shops, Pet Foods, and Supplies Stores"
