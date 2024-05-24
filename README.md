@@ -1,4 +1,10 @@
 ### Bolt UBC 2024 Case Comp
 #### Team Unbeatabolt ⚡️
 
-Data-driven insights related to banking fraud through exploratory data analysis and predictive model to predict credit card fraud. Load using Jupyter Notebook or Google Collab.
+Notebooks are comprised of:
+* Exploratory data analysis on given datasets of credit card transactions.
+* Predictive ML model to forecast credit card fraud and corresponding performance report.
+
+Made as part of BOLT UBC's 2024 Bootcamp.
+
+Load using Jupyter Notebook or Google Collab.
